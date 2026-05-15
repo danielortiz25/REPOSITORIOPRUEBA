@@ -14,27 +14,27 @@
 
 Tabla de contenidos
 
-[**1\. El Reto de Hoy	1**](#1.-el-reto-de-hoy)
+[**1\. El Reto de Hoy	1**]
 
-[**2\. Tarea 1: El Escudo Legal	1**](#2.-tarea-1:-el-escudo-legal)
+[**2\. Tarea 1: El Escudo Legal	1**]
 
-[**3\. Tarea 2: La Memoria Técnica (Estructura Ofimática)	2**](#3.-tarea-2:-la-memoria-técnica-\(estructura-ofimática\))
+[**3\. Tarea 2: La Memoria Técnica (Estructura Ofimática)	2**]
 
-[**4\. Tarea 3: Análisis de Necesidades (Tu primer texto técnico)	2**](#4.-tarea-3:-análisis-de-necesidades-\(tu-primer-texto-técnico\))
+[**4\. Tarea 3: Análisis de Necesidades (Tu primer texto técnico)	2**]
 
-[**5\. ¿Cuándo he terminado? (Checklist de Salida)	3**](#5.-¿cuándo-he-terminado?-\(checklist-de-salida\))
+[**5\. ¿Cuándo he terminado? (Checklist de Salida)	3**]
 
-[**ANEXO I: Plantilla y Ejemplo de Análisis de Necesidades	4**](#anexo-i:-plantilla-y-ejemplo-de-análisis-de-necesidades)
+[**ANEXO I: Plantilla y Ejemplo de Análisis de Necesidades	4**]
 
-[1\. Análisis de Necesidades	4](#1.-análisis-de-necesidades)
+[1\. Análisis de Necesidades	4]
 
-[1.1. Contexto y Problemática Actual	4](#1.1.-contexto-y-problemática-actual)
+[1.1. Contexto y Problemática Actual	4]l)
 
-[1.2. Solución Propuesta: Infraestructura Híbrida Docker-Guacamole	4](#1.2.-solución-propuesta:-infraestructura-híbrida-docker-guacamole)
+[1.2. Solución Propuesta: Infraestructura Híbrida Docker-Guacamole	4]
 
-[1.3. Justificación Técnica y Beneficios (TCO)	4](#1.3.-justificación-técnica-y-beneficios-\(tco\))
+[1.3. Justificación Técnica y Beneficios (TCO)	4]
 
-# 1\. El Reto de Hoy {#1.-el-reto-de-hoy}
+# 1\. El Reto de Hoy 
 
 La semana pasada fuisteis técnicos: montasteis contenedores, configurasteis SSH y pusisteis en marcha Guacamole. **Hoy vais a empezar a ser profesionales**. La diferencia es sencilla: un técnico hace que funcione; un profesional sabe explicar por qué funciona, bajo qué ley opera y lo deja documentado para que el siguiente no pierda el tiempo.
 
@@ -70,7 +70,7 @@ Vamos a crear el documento donde contaréis vuestra "hazaña" técnica. No vale 
    * **Jerarquía de títulos**. Configura el "Título 1" para las secciones principales y el "Título 2" para los apartados; el “Título 3”, sólo si lo consideras necesario.  
 4. Guarda el archivo dentro de la carpeta docs de tu repositorio (mientras lo terminas puedes utilizar Google Drive).
 
-# 4\. Tarea 3: Análisis de Necesidades (Tu primer texto técnico) {#4.-tarea-3:-análisis-de-necesidades-(tu-primer-texto-técnico)}
+# 4\. Tarea 3: Analisis de Necesidades (Tu primer texto técnico) {#4.-tarea-3:-análisis-de-necesidades-(tu-primer-texto-técnico)}
 
 Es hora de justificar tu trabajo. No instalaste Docker porque sí.
 
